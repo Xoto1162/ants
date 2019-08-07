@@ -13,7 +13,7 @@ I recommend using visual studio because the dependencies were built for the comp
 - Move the file `lib/SDL2.dll` to the folder `Release`
 - Now you can start the app
 
-## Keys
+## Controls
 
 - `F` to add a food spot to a random position
 - `A` to add an anthill to a random position
